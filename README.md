@@ -7,7 +7,7 @@ Para ello, hemos utilizado los datos de la encuesta American National Election S
 
 * `código/preprocesamiento.py`: Script encargado de la extracción y limpieza de datos. Selecciona las 8 variables de interés del archivo crudo, elimina los códigos de error o respuestas nulas y normaliza los valores para generar el archivo limpio.
 * `código/tda.py`: Script principal que ejecuta el pipeline de homología persistente. A partir de los datos procesados, calcula los complejos de Vietoris-Rips y genera diagramas de persistencia e imágenes de persistencia vectorizadas.
-* `TFG_PIO.pdf`: Documento completo con la memoria del Trabajo Fin de Grado.
+* `Memoria_tfg.pdf`: Documento completo con la memoria del Trabajo Fin de Grado.
 
 ## Requisitos y dependencias
 
